@@ -24,7 +24,8 @@ camera_info_topic:=/camera/color/camera_info \
 approx_sync:=false
 ```
 Results:-
-
+![](./src/images/rtabmap_result.jpeg)
+Don't worry about the red color in this particular image i took screenshot after putting the camera down.
 
 # Extra Info
 ## Stereo Handheld Mapping
